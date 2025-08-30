@@ -8,3 +8,15 @@
 /rf_bert_model.pkl
 /test.py
 /UpdatedResumeDataSet.csv
+/cs_resume_dataset_realistic.csv
+/cs_resume_dataset111.csv
+/cs_resume_dataset1111.csv
+/ats_data.pkl
+/bert_model_for_xgboost.pkl
+/EDA.ipynb
+/le_model_for_xgboost.pkl
+/Preprocessed_Data.csv
+/test.ipynb
+/X_embeddings.npy
+/xgboost_bert_mode.pkl
+/y_labels.npy
